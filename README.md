@@ -5,13 +5,16 @@
 - This repository is based on a [blog](https://blog.bushidotoken.net/2020/12/operational-security-tips-and-tricks.html) I wrote back in 2020, but I wanted a way to update the advice, while preserving the original.
 
 ## Social Media:
-- Set social media accounts (e.g. Twitter, Facebook, Instagram, Tiktok) to private.
-- Avoid using your real name when creating accounts.
-- Avoid using identifiable personal pictures for profile pictures and cover pictures.
-- Leave bio details blank and avoid sharing identifiable information.
-- Do not check-in to locations or share your location for social media posts.
-- Have a vetted list of friends/contacts that you permit to view your social media content.
-- Finally, personnel who work in cleared positions may often ask family members not to share pictures of you and prevent tagging.
+
+Social media is difficult to avoid in this day and age. While many guides recommend deleting your accounts and uninstalling your apps, that is not practical for non-technical users trying to live their life.
+
+- Set social media accounts like Twitter, Facebook, Instagram, Threads, TikTok, SnapChat to private (and I recommend your family to do this as well)
+- Avoid using your real name when creating accounts to make it harder for people to find you, it is even possible have a [Single Name Only](https://www.wikihow.com/Make-a-Single-Name-Account-on-Facebook) account 
+- Avoid using identifiable personal pictures with your face in your profile pictures and/or cover pictures.
+- Leave the bio details of social media accounts blank too and avoid sharing identifiable information, such as your car with its number plate or your house front door with its number
+- As tempting as it is, avoid checking-in to locations or tagging the specific location of your pictures in social media posts.
+- Avoid accepting friend requests or follows from random people, make it so only a list of your actual real life family, friends or colleagues are permitted to view your social media content.
+- Finally, have a conversation about the risks of social media with your friends and family and ask them not share pictures of you and prevent them from tagging you.
 
 ## Personal Security (PERSEC) for Devices and Accounts:
 - Use more than one email account - ideally one for critical services like finances, online shopping etc, and one for social media and other non-essential platforms.
