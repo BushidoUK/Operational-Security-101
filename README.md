@@ -4,7 +4,7 @@
 - A repository of advice and guides to share with friends and family who are concerned about their safety during online activities and the security of their devices.
 - This repository is based on a [blog](https://blog.bushidotoken.net/2020/12/operational-security-tips-and-tricks.html) I wrote back in 2020, but I wanted a way to update the advice, while preserving the original.
 
-## Social Media:
+## Social Media OPSEC:
 
 Social media is difficult to avoid in this day and age. While many guides recommend deleting your accounts and uninstalling your apps, that is not practical for non-technical users trying to live their life.
 
@@ -17,7 +17,7 @@ Social media is difficult to avoid in this day and age. While many guides recomm
 - Finally, have a conversation about the risks of social media with your friends and family and ask them not share pictures of you and prevent them from tagging you.
 - As time consuming as it is, go back through your social media timeline and the timeline or your friends and family to make sure that no compromising images or posts were shared historically.
 
-## Personal Security (PERSEC) for Your Accounts:
+## OPSEC for Your Accounts:
 
 The types of things most people are afriad of online is if their social media, email, online shopping or bank accounts get hacked. In many cases, these types of security risks come from attacks that are automated by cybercriminals. If people implemented basic cyber hygiene, then they would be immune to 99% of these generic scams as well as some more targeted attacks too due to low-skilled scammers not being able to circumvent basic controls.
 
@@ -29,7 +29,7 @@ The types of things most people are afriad of online is if their social media, e
 - **Password Managers** are one of the most useful programmes to organise accounts in an encrypted database, these can only be accessed locally with one master password and physical access to your system with the password manager software on it.
 - Alway backup data! Protect yourself from corrupted drives, broken devices, or ransomware by backing up your files. This can be done in multiple ways such as removable media (USBs and external drives), and cloud services such as Google Drive, OneDrive, iCloud, Dropbox or Proton Drive.
 
-## Personal Security (PERSEC) for Your Devices:
+## OPSEC for Your Devices:
 
 The goal of these tips to secure your devices so that you become a harder target for cybercriminals. The following steps will help you avoid being a victim to 99% of automated threats and, for targeted attacks, the more time, effort, skills or resources it takes a cybercriminal to compromise you, the more likely and faster it will be that they give up and move on.
 
@@ -41,7 +41,7 @@ The goal of these tips to secure your devices so that you become a harder target
 - If you see any suspicious URLs or Websites, you can these two services - **Browserling** & **URLscan** - to visit the site and check it before entering.
 - If you see any suspicious files on your computer, you can use **VirusTotal** to scan the file and check for malware or even adware.
 
-## More Advanced PERSEC
+## More Advanced OPSEC Tips:
 
 Along with the above, those who are `public-facing personalities` may not get the luxury to conceal their real names from the world. For this group of people they are forced to up their OPSEC game
 due to the increased threat level and the higher number of attacks. The recommendations below are for types of users that take their security seriously.
