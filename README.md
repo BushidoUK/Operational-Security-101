@@ -80,3 +80,4 @@ A list of sites and services mentioned throughout the guide above:
 16. Free Service to find accounts with the same Username: https://whatsmyname.app
 17. Paid Service to look at breach data: https://www.dehashed.com
 18. Infosec News Sites: https://www.bleepingcomputer.com | https://therecord.media | https://www.bbc.co.uk/news/technology
+19. OPSEC checlist: https://digital-defense.io/
