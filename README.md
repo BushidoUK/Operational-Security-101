@@ -81,3 +81,4 @@ A list of sites and services mentioned throughout the guide above:
 17. Paid Service to look at breach data: https://www.dehashed.com
 18. Infosec News Sites: https://www.bleepingcomputer.com | https://therecord.media | https://www.bbc.co.uk/news/technology
 19. OPSEC checlist: https://digital-defense.io/
+20. Free US DoD OPSEC Training: https://securityawareness.usalearning.gov/opsec/index.htm
