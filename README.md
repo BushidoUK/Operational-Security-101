@@ -44,7 +44,7 @@ The goal of these tips to secure your devices so that you become a harder target
 ## More Advanced OPSEC Tips:
 
 Along with the above, those who are `public-facing personalities` may not get the luxury to conceal their real names from the world. For this group of people they are forced to up their OPSEC game
-due to the increased threat level and the higher number of attacks. The recommendations below are for types of users that take their security seriously.
+due to the increased threat level and the higher number of attacks. The recommendations below are for types of users that take their security seriously, such as security researchers or executives.
 
 - If you think you require a proper security review, it will be well worth it to ask a professional to check your OPSEC using open source intelligence (OSINT) techniques to audit your digital footprint.
 - You can set up alerts to check if you are mentioned on in news articles online, this can be done via Google Alerts.
@@ -56,22 +56,27 @@ due to the increased threat level and the higher number of attacks. The recommen
 - It may also be worth investigating the use of a Virtual Machine (VM) to run a guest operating system (OS) inside your primary OS. Many infosec professionals like to run Linux VMs on their Windows hosts.
 - End-to-end encrypted (E2EE) chatting applications for mobile and desktop are recommended to for personal communication, such as Signal or Keybase, which also support file sharing.
 - CanaryTokens are also an interesting tool which can be laid like traps that set off an alert if an intruder triggers them. These appear like normal files or folders, but when someone opens the file, you will receive an email with the time, place, device type, and IP address of where it was opened.
+- If you are trying to keep your username pseudonymous from your real-world identity (RWI), avoid reusing your username/handle that is tied to your other accounts. Perform an account audit and take inventory of what accounts you use and what their details are. Adversaries targeting you personally may use OSINT tools (like Whatsmyname.app) and Breached Data (like DeHashed) to look you up.
+- Keep yourself up to date with the latest cybersecurity news! Follow reputable Infosec News sites like BleepingComputer, TheRecord by Recorded Future or BBC News Technology
 
 ## Resources
 
 A list of sites and services mentioned throughout the guide above:
 
 1. Multi-Factor Authenticator (MFA) mobile app: https://www.microsoft.com/en-us/account/authenticator
-2. Visit a Site from a Virtual Computer's Browser: https://www.browserling.com/
-3. Scan any URL to see if it is malicious: https://urlscan.io/
-4. Scan any File to see if it is malicious: https://www.virustotal.com/
-5. Check if you email and/or password has been exposed in a data breach: https://haveibeenpwned.com/
-6. Temproary Email Service: https://10minutemail.com/
+2. Visit a Site from a Virtual Computer's Browser: https://www.browserling.com
+3. Scan any URL to see if it is malicious: https://urlscan.io
+4. Scan any File to see if it is malicious: https://www.virustotal.com
+5. Check if you email and/or password has been exposed in a data breach: https://haveibeenpwned.com
+6. Temproary Email Service: https://10minutemail.com
 7. Free and Safe Password Manager: https://keepass.info/download.html
 8. Setup alerts to monitor for your mentions in articles found by Google: https://www.google.co.uk/alerts
-9. Privacy-focused Email Accounts: https://protonmail.com/
-10. Reputable VPN software: https://protonvpn.com/
-11. Free Virtual Machine Software: https://www.virtualbox.org/
+9. Privacy-focused Email Accounts: https://protonmail.com
+10. Reputable VPN software: https://protonvpn.com
+11. Free Virtual Machine Software: https://www.virtualbox.org
 12. Free E2EE Chatting Apps: https://keybase.io | https://signal.org
 14. Place Trackers in files on your Desktop/Laptop or Removable Media Devices: http://canarytokens.org/generate
-15. Tor Browser: https://www.torproject.org/download/
+15. Tor Browser: https://www.torproject.org/download
+16. Free Service to find accounts with the same Username: https://whatsmyname.app
+17. Paid Service to look at breach data: https://www.dehashed.com
+18. Infosec News Sites: https://www.bleepingcomputer.com | https://therecord.media | https://www.bbc.co.uk/news/technology
